@@ -1,0 +1,9 @@
+{
+    "name": "选择图片",
+    "fields": ["image"],
+    "type": "element",
+    "dependencies": [
+        "vue@2.4",
+        "bootstrap@3.3.7!css"
+    ]
+}
